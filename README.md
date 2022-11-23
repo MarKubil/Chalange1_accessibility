@@ -2,6 +2,12 @@
 
 ## Description
 
+Horiseon static website offers variaty of services to its customers such as 
+sutvarkiau css
+html sematic order.
+fix link.
+
+
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
