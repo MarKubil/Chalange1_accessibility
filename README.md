@@ -30,6 +30,6 @@ N/A
 
 ## Badges
 
-![badmath](https://img.shields.io/badge/56.1%25-HTML-green)
+![badmath](https://img.shields.io/badge/55.3%25-HTML-yellow)
 
-![badmath](https://img.shields.io/badge/43.9%25-CSS-green)
+![badmath](https://img.shields.io/badge/44.7%25-CSS-green)
