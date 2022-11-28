@@ -4,6 +4,8 @@
 
 In this Horiseon static HTMl, CSS website I have refactored code to meet accessibility standards and also added some responsive website design.
 
+![The Horiseon webpage.](assets/images/01-html-css-git-challenge-demo.png)
+
 ## Installation
 
 N/A
