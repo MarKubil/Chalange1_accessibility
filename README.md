@@ -2,7 +2,9 @@
 
 ## Description
 
-In this Horiseon static HTMl, CSS website I have refactored code to meet accessibility standards and also added some responsive website design.
+In this Horiseon static HTMl, CSS website I have refactored code to meet accessibility standards and also added some responsive website design. 
+
+Link to live page: [Click here](https://markubil.github.io/Code_Refactor/)
 
 ![The Horiseon webpage.](assets/images/01-html-css-git-challenge-demo.png)
 
